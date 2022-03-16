@@ -1,0 +1,4 @@
+127.0.0.1 - - [09/Mar/2022:08:38:42 +0800] "POST /auth/api/dologin HTTP/1.0" 200 172 http-bio-8081-exec-1 1369
+127.0.0.1 - - [09/Mar/2022:08:39:17 +0800] "GET /auth/api/logout HTTP/1.0" 404 949 http-bio-8081-exec-2 14
+127.0.0.1 - - [09/Mar/2022:10:58:57 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 200 56 http-bio-8081-exec-1 116418
+127.0.0.1 - - [09/Mar/2022:11:01:01 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 200 18 http-bio-8081-exec-1 1768
